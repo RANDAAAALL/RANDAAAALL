@@ -9,11 +9,6 @@
 ## 🚀 About Me
 
 💻 I’m a passionate developer who loves building modern web & mobile apps.  
-🌱 Currently learning **Python, and Django**.  
-⚡ Fun fact: I debug faster with coffee ☕.
-
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" height="180" width="100%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANDAAAALL&theme=dark" height="180" width="100%"/>
