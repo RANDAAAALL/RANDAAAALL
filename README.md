@@ -13,7 +13,7 @@
 
 ---
 
-<table align="center">
+<table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" height="180"/>
