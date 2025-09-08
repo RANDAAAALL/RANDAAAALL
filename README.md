@@ -1,16 +1,29 @@
-## Hi there 👋
+<h1 align="center">Hello There 👋</h1>
 
-<!--
-**RANDAAAALL/RANDAAAALL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/> </p>
 
-Here are some ideas to get you started:
+--- ## 🚀 About Me 
+ 
+💻 I’m a passionate developer who loves building modern web & mobile apps.
+🌱 Currently learning **Next.js 15, Bun, Python, and Django**.
+⚡ Fun fact: I debug faster with coffee ☕.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- ## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=radical" height="180"width="100%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RANDAAAALL&theme=radical" height="180" width="100%"/> </p>
+
+--- ## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,bun,java,tailwind,git,github,expo" /> </p>
+
+--- ## 🌟 Let’s Connect!
+
+📫 Reach me at: **lesterandig17@gmail.com**
+🌐 Portfolio: soon👀
+🔗 LinkedIn: [Lester Andig](https://www.linkedin.com/in/lester-andig-b74532348)
+💬 Open to collaboration and exciting projects!
+
+ ---
