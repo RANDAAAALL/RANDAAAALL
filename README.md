@@ -1,7 +1,5 @@
 <h1 align="center">Hello There 👋</h1>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RANDAAAALL.RANDAAAALL)
-
 <p align="center">
   <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/>
 </p>
