@@ -9,7 +9,7 @@
 ## 🚀 About Me
 
 💻 I’m a passionate developer who loves building modern web & mobile apps.  
-🌱 Currently learning **Next.js 15, Bun, Python, and Django**.  
+🌱 Currently learning **Python, and Django**.  
 ⚡ Fun fact: I debug faster with coffee ☕.
 
 ---
