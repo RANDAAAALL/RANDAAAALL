@@ -1,4 +1,4 @@
-<h2 align="center">Hello There 👋</h2>
+<p align="center" style="font-size: 2.5rem; font-weight: bold;">Hello There 👋</p>
 
 ---
 
