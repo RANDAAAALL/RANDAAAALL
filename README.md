@@ -4,12 +4,7 @@
   <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/>
 </p>
 
----
-
-## 🚀 About Me
-
-💻 I’m a passionate developer who loves building modern web & mobile apps.  
-🌱 Currently learning **Python, and Django**.  
+<p align="center">💻 I am Lester Andig a passionate developer who loves building modern web & mobile apps.  </p>
 
 ---
 
