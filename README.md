@@ -1,6 +1,6 @@
 <h1 align="center">Hello There 👋</h1>
 
-![Profile Views](https://komarev.com/ghpvc/?username=RANDAAAALL&color=gray&style=flat-square)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RANDAAAALL.RANDAAAALL)
 
 <p align="center">
   <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/>
