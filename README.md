@@ -1,12 +1,8 @@
-# Hello There 👋
-
----
-
 <p align="center">
   <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/>
 </p>
 
-<h3 align="center">I am Lester Andig a passionate developer</h3>
+<h3 align="center">Hello I am Lester Andig a passionate developer</h3>
 <h3 align="center">who loves building modern web & mobile apps</h3>
 
 ---
