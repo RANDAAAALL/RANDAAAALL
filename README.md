@@ -30,9 +30,9 @@
 
 ## 🌟 Let’s Connect!
 
-📫 Reach me at:**lesterandig17@gmail.com** 
-🌐 Portfolio: soon👀
-🔗 LinkedIn: [Lester Andig](https://www.linkedin.com/in/lester-andig-b74532348)
+📫 Reach me at: **lesterandig17@gmail.com**  
+🌐 Portfolio: soon👀  
+🔗 LinkedIn: [Lester Andig](https://www.linkedin.com/in/lester-andig-b74532348)  
 💬 Open to collaboration and exciting projects!
 
 ---
