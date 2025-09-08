@@ -4,7 +4,8 @@
   <img src="./assets/rndll-hero-image.png" alt="rndll-hero-img" width="600"/>
 </p>
 
-<h2 align="center">💻 I am Lester Andig a passionate developer who loves building modern web & mobile apps.  </h2>
+<h3 align="center">I am Lester Andig</h3>
+<h3 align="center">a passionate developer who loves building modern web & mobile apps.  </h3>
 
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
