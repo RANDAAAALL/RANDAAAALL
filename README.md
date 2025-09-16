@@ -10,13 +10,16 @@
 <table align="center" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" width="350" height="180">
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=RANDAAAALL&theme=dark" alt="GitHub Streak" /></a>
+      <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=RANDAAAALL&theme=dark" width="200" height="180" alt="GitHub Streak">
+      </a>
     </td>
   </tr>
 </table>
+
 
 ---
 
