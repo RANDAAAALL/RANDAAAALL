@@ -14,7 +14,7 @@
     </td>
     <td>
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats-eight.vercel.app?user=RANDAAAALL&theme=dark" height="180" style="display:block;">
+        <img src="https://github-readme-streak-stats-eight.vercel.app?user=RANDAAAALL&theme=dark">
       </a>
     </td>
   </tr>
