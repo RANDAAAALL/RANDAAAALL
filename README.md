@@ -13,7 +13,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" height="180"/>
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RANDAAAALL&theme=dark" height="180"/>
+      ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=RANDAAAALL&theme=dark)
     </td>
   </tr>
 </table>
