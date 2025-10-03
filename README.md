@@ -35,7 +35,7 @@
 ## 🌟 Let’s Connect!
 
 📫 Reach me at: **lesterandig17@gmail.com**  
-🌐 Portfolio: soon👀  
+🌐 Portfolio: [Portfolio](https://randall-is-a-dev.vercel.app/)
 🔗 LinkedIn: [Lester Andig](https://www.linkedin.com/in/lester-andig-b74532348)  
 💬 Open to collaboration and exciting projects!
 
