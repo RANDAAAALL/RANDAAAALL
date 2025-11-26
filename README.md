@@ -1,4 +1,4 @@
-<h3 align="center">Hello👋 I am Lester Andig, an aspiring Full-Stack Developer</h3> 
+<h3 align="center">Hello👋 I am Lester Andig, a Web Developer</h3> 
 <h3 align="center">who loves building modern web applications</h3>
 
 ---
