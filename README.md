@@ -8,11 +8,11 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=RANDAAAALL&show_icons=true&theme=dark" height="180">
     </td> -->
-    <td>
+    <!-- <td> -->
       <a href="https://git.io/streak-stats">
         <img src="https://github-readme-streak-stats-eight.vercel.app?user=RANDAAAALL&theme=dark" height="180">
       </a>
-    </td>
+    <!-- </td> -->
   </tr>
 </table>
 
