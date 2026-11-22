@@ -25,7 +25,7 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/888888" alt="Node.js" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/express/888888" alt="Express" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/bun/888888" alt="Bun" width="36" height="36" />
-  <br>
+  <!-- <br> -->
   <img src="https://cdn.simpleicons.org/npm/888888" alt="npm" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/tailwindcss/888888" alt="Tailwind CSS" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/git/888888" alt="Git" width="36" height="36" />
@@ -40,7 +40,7 @@
 <h2 align="center">Let’s Connect!</h2>
 
 <p align="center">
-  Reach me at: <strong>lesterandig17@gmail.com</strong> |
+  Reach me at: <a href="mailto:lesterandig17@gmail.com"><strong>lesterandig17@gmail.com</strong></a> |
   Portfolio: <a href="https://lstrndg.vercel.app/">lstrndg</a> |
   LinkedIn: <a href="https://www.linkedin.com/in/lester-andig-b74532348">Lester Andig</a>
   <br>
