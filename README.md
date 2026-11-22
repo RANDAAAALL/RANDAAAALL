@@ -1,5 +1,5 @@
-<h4 align="center">Hello, I am Lester Andig, a Web Developer</h4>
-<h4 align="center">who loves building modern web applications</h4>
+<h3 align="center">Hello, I am Lester Andig, a Web Developer</h3>
+<h3 align="center">who loves building modern web applications</h3>
 
 <br>
 
@@ -25,6 +25,7 @@
   <img src="https://cdn.simpleicons.org/nodedotjs/888888" alt="Node.js" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/express/888888" alt="Express" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/bun/888888" alt="Bun" width="36" height="36" />
+  <br>
   <img src="https://cdn.simpleicons.org/npm/888888" alt="npm" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/tailwindcss/888888" alt="Tailwind CSS" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/git/888888" alt="Git" width="36" height="36" />
