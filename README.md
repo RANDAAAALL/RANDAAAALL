@@ -30,6 +30,7 @@
   <img src="https://cdn.simpleicons.org/git/888888" alt="Git" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/github/888888" alt="GitHub" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/prisma/888888" alt="Prisma" width="36" height="36" />
+  <img src="https://cdn.simpleicons.org/supabase/888888" alt="Firebase" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/firebase/888888" alt="Firebase" width="36" height="36" />
   <img src="https://cdn.simpleicons.org/mysql/888888" alt="MySQL" width="36" height="36" />
   <img src="https://api.iconify.design/mdi/language-java.svg?color=%23888888" alt="Java" width="36" height="36" />
